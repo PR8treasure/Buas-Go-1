@@ -268,10 +268,30 @@ padding-top: 10px
 
 
 .quiz1{
-
+	
+position: relative;
+	bottom: 410px;
 	
 }
 
+.nextbutton{
+position: relative;
+	top: 10px;
+}
 
+
+.stephen{
+	margin-top: -420px;
+	
+}
+
+.white-text{
+	color: white;
+}
+
+.move{
+	position: relative;
+	right: 20px;
+}
 /* ---------------------------------------- */ 
 
