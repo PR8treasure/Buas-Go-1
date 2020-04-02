@@ -8,6 +8,9 @@ U can also view and edit the code without dowloading right here in Github.
 Be aware of the diffrent css files as a change will not always influence all pages.
 
 
+For the app to work well please adjust your screen to mobile size or open this on your mobile browser. 
+The Quiz does not work in APK form because of the connection with the server problem when not in a browser. 
+
 
 Cheers
 
