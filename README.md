@@ -9,7 +9,7 @@ Be aware of the diffrent css files as a change will not always influence all pag
 
 
 For the app to work well please adjust your screen to mobile size or open this on your mobile browser. 
-The Quiz does not work in APK form because of the connection with the server problem when not in a browser. 
+The Quiz does not work in APK form because of some IFRAME problem that only works in a browser. 
 
 
 Cheers
